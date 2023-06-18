@@ -1,0 +1,7 @@
+*.log
+*.sln
+x64/
+DebtorsList/x64/
+*DebtorsList/.vcxproj
+*DebtorsList/.filters
+*DebtorsList/user
